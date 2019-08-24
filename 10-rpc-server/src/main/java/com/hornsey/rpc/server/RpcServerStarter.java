@@ -9,7 +9,6 @@ public class RpcServerStarter {
 
 		RpcServer rpcServer = new RpcServer();
 		rpcServer.publish("com.hornsey.rpc.service");
-//		System.in.read();
 
 	}
 }
